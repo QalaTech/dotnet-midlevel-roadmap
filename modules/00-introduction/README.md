@@ -129,7 +129,7 @@ If you're missing these, spend 2-4 weeks on fundamentals first. This roadmap ass
 2. Ask "why" questions, not just "does it work"
 3. Share war stories from your experience
 4. Point to real codebase examples when possible
-5. Use the [Mentor Alignment Checklist](../../roadmap_full/master-roadmap.md#mentor-alignment-checklist)
+5. Use the [Mentor Alignment Checklist](../../roadmap/master-roadmap.md#mentor-alignment-checklist)
 
 ### If You're a Team Lead
 1. Adapt timeframes to your team's capacity
