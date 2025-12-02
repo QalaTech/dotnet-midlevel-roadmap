@@ -162,9 +162,10 @@ See [RESOURCES.md](./RESOURCES.md) for the complete curated list of:
 
 ## Start Here
 
-1. Read [SAMPLE-PROJECT.md](./SAMPLE-PROJECT.md) to understand OrderFlow
-2. Skim [RESOURCES.md](./RESOURCES.md) to bookmark key references
-3. Set up your development environment
-4. Begin [Module 01 — C# Foundations](../01-csharp-foundations/part-1.md)
+1. **Take the [Self-Assessment](./SELF-ASSESSMENT.md)** to find your starting point
+2. Read [SAMPLE-PROJECT.md](./SAMPLE-PROJECT.md) to understand OrderFlow
+3. Skim [RESOURCES.md](./RESOURCES.md) to bookmark key references
+4. Set up your development environment
+5. Begin with the module your assessment identified
 
 The path from junior to mid-level is hard. This roadmap makes it structured. Let's go.

@@ -18,10 +18,11 @@ You should use this roadmap if you:
 
 ## Quick Start
 
-1. Read the [Introduction](./modules/00-introduction/README.md) to understand the approach
-2. Review [OrderFlow](./modules/00-introduction/SAMPLE-PROJECT.md) - the project you'll build
-3. Bookmark the [Resources](./modules/00-introduction/RESOURCES.md) for reference
-4. Start with [Module 01 - C# Foundations](./modules/01-csharp-foundations/README.md)
+1. Take the [Self-Assessment](./modules/00-introduction/SELF-ASSESSMENT.md) to find your starting point
+2. Read the [Introduction](./modules/00-introduction/README.md) to understand the approach
+3. Review [OrderFlow](./modules/00-introduction/SAMPLE-PROJECT.md) - the project you'll build
+4. Bookmark the [Resources](./modules/00-introduction/RESOURCES.md) for reference
+5. Start with the module your assessment identified (or [Module 01](./modules/01-csharp-foundations/README.md) if unsure)
 
 ## Modules
 
